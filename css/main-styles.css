@@ -148,7 +148,7 @@ html {
     height: auto;
     position: relative;
     padding: 50px 0;
-    background-image: url(img/portada-6.png);
+    background-image: url(../img/portada-6.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -481,7 +481,7 @@ html {
     position: relative;
     padding: 50px 0;
     margin: 50px 0 0 0;
-    background-image: url(img/portada-6.png);
+    background-image: url(../img/portada-6.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -652,7 +652,7 @@ html {
         height: auto;
         position: relative;
         padding: 20px 0;
-        background-image: url(img/portada-pagina5.png);
+        background-image: url(../img/portada-pagina5.png);
         background-attachment: fixed;
         background-position: left;
         background-repeat: no-repeat;
